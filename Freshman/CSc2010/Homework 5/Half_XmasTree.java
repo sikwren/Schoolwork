@@ -19,7 +19,11 @@ public class Half_XmasTree {
 			System.out.println(); 
 		}
 		System.out.println("Merry Half-Christmas!"); //prints a jolly holiday message at the bottom.
+<<<<<<< HEAD
 
+=======
+	in.close();
+>>>>>>> homework
 	}
 
 }
