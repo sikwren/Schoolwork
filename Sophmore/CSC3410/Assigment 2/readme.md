@@ -1,4 +1,4 @@
-/**
+
  		Sydnee Wren
  		Assignment #2: Wordcount.java
  		Due Wednesday, February 3, 2016
@@ -51,5 +51,4 @@
  			vowels, and punctuation in the user provided input (which is a 
  			text file). If file is empty then the output file, and screen out
  			put must read "the input file is empty".
- 		
- **/
+
